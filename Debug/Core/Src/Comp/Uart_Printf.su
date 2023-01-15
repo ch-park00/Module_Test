@@ -1,0 +1,4 @@
+../Core/Src/Comp/Uart_Printf.c:15:1:__io_putchar	16	static
+../Core/Src/Comp/Uart_Printf.c:26:13:MX_USART2_UART_Init	8	static
+../Core/Src/Comp/Uart_Printf.c:54:6:Uart_Printf_Init	8	static
+../Core/Src/Comp/Uart_Printf.c:60:6:Uart_Printf	4	static

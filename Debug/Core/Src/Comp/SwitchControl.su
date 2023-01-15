@@ -1,0 +1,2 @@
+../Core/Src/Comp/SwitchControl.c:9:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/Comp/SwitchControl.c:19:6:Switch_GPIO_Init	32	static

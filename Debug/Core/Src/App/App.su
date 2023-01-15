@@ -1,0 +1,7 @@
+../Core/Src/App/App.c:14:6:tasklist_init	24	static
+../Core/Src/App/App.c:32:6:task_init	16	static
+../Core/Src/App/App.c:39:6:task_regist	16	static
+../Core/Src/App/App.c:48:6:app_init	16	static
+../Core/Src/App/App.c:56:6:Confirm_NeedToProc	16	static
+../Core/Src/App/App.c:84:6:Confirm_EventProc	16	static
+../Core/Src/App/App.c:122:6:Proc_App	16	static

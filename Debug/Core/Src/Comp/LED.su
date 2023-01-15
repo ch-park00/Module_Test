@@ -1,0 +1,3 @@
+../Core/Src/Comp/LED.c:9:6:LED_Init	32	static
+../Core/Src/Comp/LED.c:21:6:LED_ON	8	static
+../Core/Src/Comp/LED.c:26:6:LED_OFF	8	static
